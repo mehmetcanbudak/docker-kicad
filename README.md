@@ -1,4 +1,6 @@
 Minimal KiCad image based on Ubuntu
+from https://github.com/productize/docker-kicad
+
 ===================================
 
 This is a Docker image contains specific versions of the [KiCad EDA suite]. It
