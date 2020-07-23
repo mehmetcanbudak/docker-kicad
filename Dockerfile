@@ -1,5 +1,4 @@
-
-FROM ubuntu:disco
+FROM ubuntu:bionic
 MAINTAINER Seppe Stas <seppe@productize.be>
 LABEL Description="Minimal KiCad image based on Ubuntu"
 
